@@ -1,0 +1,29 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "This is react by hari",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hari-Krishna-9999/ReactJS.git"
+  },
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "hari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hari-Krishna-9999/ReactJS/issues"
+  },
+  "homepage": "https://github.com/Hari-Krishna-9999/ReactJS#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  }
+}
